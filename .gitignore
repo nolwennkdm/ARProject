@@ -1,0 +1,9 @@
+# Ignorer les fichiers volumineux
+MRTKprojectfinal/Library/PackageCache/com.unity.burst@1.8.18/.Runtime/libburst-llvm-16.dylib
+MRTKprojectfinal/Library/ArtifactDB
+
+# Autres règles générales (exemples pour Unity)
+*.log
+*.tmp
+*.bak
+.DS_Store
